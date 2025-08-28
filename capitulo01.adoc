@@ -4,8 +4,11 @@ Licencia: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) https://creati
 ////
 
 :chapter: 001
-
-include::variables.adoc[]
+:lang: <<java,Java>>
+:jbang: <<jbang,JBang>>
+:jshell: <<jshell,JShell>>
+:ide: <<ide,IDE>>
+:javac: <<javac,javac>>
 
 
 == Capítulo 1. Introducción.
