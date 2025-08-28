@@ -1,0 +1,17 @@
+= Programación en Java para principiantes
+Eliezer Herrera <eliezer.herrera@protonmail.com>
+:doctype: book
+:source-highlighter: coderay
+:author: Eliezer Herrera
+:toc: right
+:icons: font
+:ascii-ids:
+
+image::images/lic.png[CC BY-SA 4.0, link="https://creativecommons.org/licenses/by-sa/4.0/"]
+
+
+include::variables.adoc[]
+
+include::capitulo01.adoc[]
+//include::capitulo02.adoc[]
+//include::capitulo03.adoc[]
