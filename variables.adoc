@@ -1,0 +1,5 @@
+:lang: <<java,Java>>
+:jbang: <<jbang,JBang>>
+:jshell: <<jshell,JShell>>
+:ide: <<ide,IDE>>
+:javac: <<javac,javac>>
